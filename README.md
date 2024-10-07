@@ -2,8 +2,6 @@
 
 As part of a Systems Engineering & Analysis project in 2023, my team (2 other students) and I designed and built a soccer robot that could play against other robots. The purpose of the project was to make mathematics more engaging for technical students. During this project, I mainly focused on the electronic circuit and programming the Arduino.
 
-**Website:** [GitHub Repo](https://github.com/mathiaswouters/SY-A_Project)
-
 **Completed:** January 2023
 
 ## Soccer Robot
