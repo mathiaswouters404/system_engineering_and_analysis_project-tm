@@ -34,6 +34,9 @@ Looking back, I have achieved a deeper understanding of systems engineering prin
 
 Overall, the soccer robot project has been a rewarding experience that has broadened my skill set, allowed me to contribute to a meaningful educational initiative, and reinforced my commitment to continuous learning and growth in the field of engineering.
 
+### L293D Scheme
+https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/
+
 ![Soccer Robot 1](img/sya-1.jpg)
 
 ![Soccer Robot 2](img/sya-2.jpg)
